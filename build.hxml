@@ -1,0 +1,4 @@
+--class-path haxeSrc
+--main haxeSrc.Main
+
+--cpp bin\cpp
